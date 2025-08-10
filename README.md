@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Nayaz 👋
 
 I’m an aspiring Data Analyst and AI enthusiast based in Bangalore, India.
 
